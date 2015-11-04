@@ -1,0 +1,14 @@
+.vs/
+artifacts/
+iisroot/
+packages/
+*.user
+*.suo
+project.lock.json
+[bB]in/
+node_modules/
+bower_components/
+**/wwwroot/lib/
+**/wwwroot/css/*.min.css
+**/wwwroot/js/*.min.js
+TestResults/
